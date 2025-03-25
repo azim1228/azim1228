@@ -1,0 +1,43 @@
+body{
+    background-color: whitesmoke;
+}
+.asosiy{
+    position: relative;
+    margin-left: 250px;
+    background-color: white;
+    width: 1440px;
+    height: 936px;
+    justify-content: center;
+}
+.teg{
+    margin-left: 12%;
+    align-items: center;
+    display: flex;
+    gap: 15px;
+}
+.teg ul{
+    font-size: 13px;
+    font-weight: 700;
+    margin-left: 20%;
+    list-style: none;
+    font-family: sans-serif;
+    display: flex;
+    gap: 50px;
+    
+}
+.teg span{
+    color: rgb(235, 124, 6);
+}
+.teg button{
+    color: #ffff;
+    border: none;
+    border-radius: 5px;
+    width: 155px;
+    height: 39px;
+    background-color: rgb(235, 124, 6);
+}
+.pas{
+    background-color: rgb(59, 58, 58);
+    width: 1440px;
+    height: 488px;
+}
